@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Tasks</string>
+
+    <string name="ERROR_UNEXPECTED">An unexpected error has occurred. Try again later.</string>
+    <string name="ERROR_LOAD_TASK">Error loading task.</string>
+    <string name="ERROR_INTERNET_CONNECTION">Connection to the Internet needed for the use of the application.</string>
+
+    <string name="task_updated">Task updated successfully!</string>
+    <string name="task_created">Task created successfully!</string>
+    <string name="task_removed">Task removed successfully!</string>
+
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="description">Description</string>
+    <string name="priority">Priority</string>
+    <string name="due_date">Due Date</string>
+    <string name="update_task">Update Task</string>
+    <string name="click_to_select_the_due_date">Click to select the due date</string>
+    <string name="complete">Complete</string>
+    <string name="add_task">Add Task</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="task_removal">Task removal</string>
+    <string name="remove_task">Remove task?</string>
+    <string name="you_dont_have_an_account">You don\'t have an account?</string>
+    <string name="login">Login</string>
+    <string name="quit">Quit</string>
+    <string name="expired_tasks">Expired tasks</string>
+    <string name="all_tasks">All tasks</string>
+    <string name="next_7_days">Next 7 day</string>
+
+    <string name="fp_titulo">Authentication</string>
+    <string name="fp_subtitulo">Biometric validation</string>
+    <string name="fp_descricao">Use you fingerprint to login</string>
+    <string name="fp_cancelar">Not now</string>
+
+</resources>
